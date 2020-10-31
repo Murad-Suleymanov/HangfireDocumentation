@@ -1,0 +1,70 @@
+﻿Installing assembly 'C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.InstallLog
+   assemblypath = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe assembly.
+Committing assembly 'C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.InstallLog
+   assemblypath = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.InstallLog
+   assemblypath = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe assembly.
+Committing assembly 'C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.InstallLog
+   assemblypath = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe assembly.
+Remove InstallState file because there are no installers.
+Installing assembly 'C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.InstallLog
+   assemblypath = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe
+Committing assembly 'C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.InstallLog
+   assemblypath = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe
+Uninstalling assembly 'C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.InstallLog
+   assemblypath = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe
+Installing assembly 'C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.InstallLog
+   assemblypath = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe
+   servicename = Hangfire
+Committing assembly 'C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.InstallLog
+   assemblypath = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe
+   servicename = Hangfire
+Uninstalling assembly 'C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.InstallLog
+   assemblypath = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe
+Installing assembly 'C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.InstallLog
+   assemblypath = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe
+   servicename = NewService
+Committing assembly 'C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.InstallLog
+   assemblypath = C:\Users\Murad\source\repos\Hangfire\Hangfire\bin\Debug\Hangfire.exe
+   servicename = NewService
